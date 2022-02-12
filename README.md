@@ -37,7 +37,7 @@ Model Validation with LightGBM
 
 # Results
 
-I obtained an average SMAPE error of 14.14% for the forecasted demands over the test data. It is observed that the exponentially weighted mean features produce the most distinguishing characteristics for the task.
+I obtained an average SMAPE score of 14.14 for the forecasted demands over the test data. It is observed that the exponentially weighted mean features produce the most distinguishing characteristics for the task.
 
 
 
