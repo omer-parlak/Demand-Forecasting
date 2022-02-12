@@ -8,7 +8,7 @@
 # Business Problem
 It is desired to create a 3-month demand forecasting model for 10 different stores and 50 different products of a chain of stores.
 
-# History of Dataset
+# Dataset
 A store chain's 5-year data includes information on 10 different stores and 50 different products.
 
 The dataset covers the period between 01-01-2013 and 31-12-2017.
